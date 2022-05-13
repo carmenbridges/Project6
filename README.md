@@ -1,1 +1,1 @@
-My sixth web coding practice, again using Javascript. A Drum Kit you can play with the mouse or the keys.
+My sixth web coding practice, again using Javascript. A Drum Kit that you can play using the mouse or the keys.
